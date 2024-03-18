@@ -1,9 +1,6 @@
 {
   "name": "car-racing-game",
   "version": "0.1.0",
-  "author":{
-    "name":"chidindu",
-  },
   "private": true,
   "scripts": {
     "dev": "next dev",
